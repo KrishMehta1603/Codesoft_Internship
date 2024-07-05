@@ -38,8 +38,7 @@ Tasks Completed:
 
 🌟💫  3. Sales Prediction Using Python 💫🌟
 
-Objective:
-- Forecast the sales amount for a product considering various factors.
+Objective:- Forecast the sales amount for a product considering various factors.
 
 Description:
 - Built a predictive model to forecast sales based on factors like advertising expenditure, target audience segmentation, and advertising platform selection.
