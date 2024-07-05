@@ -7,6 +7,7 @@ Each project was designed to enhance practical data science and machine learning
 
 ## PROJECTS  🔥 
 🌟💫 1. Titanic Prediction Model 💫🌟
+
 Objective:
 -Predict the number of survivors in the Titanic disaster using machine learning.
 
@@ -22,6 +23,7 @@ Tasks Completed:
 
 
 🌟💫 2. Iris Flower Classification 💫🌟
+
 Objective:
 -Classify iris flowers into three species: Setosa, Versicolor, and Virginica.
 
@@ -35,6 +37,7 @@ Tasks Completed:
 
 
 🌟💫  3. Sales Prediction Using Python 💫🌟
+
 Objective:
 - Forecast the sales amount for a product considering various factors.
 
@@ -50,6 +53,7 @@ Tasks Completed:
 
 
  🌟💫 4. Credit Card Fraud Detection 💫🌟
+ 
 Objective:
 -Identify fraudulent credit card transactions using machine learning.
 
