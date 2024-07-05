@@ -16,7 +16,7 @@ Description:
 - Various features such as age, gender, class, and fare were used to train the model.
 
 Tasks Completed:
-- Data preprocessing and exploration.
+- Data preprocessing, exploration & Visualization.
 - Feature engineering and selection.
 - Model training using logistic regression.
 - Evaluation of model performance using accuracy, precision, and recall.
@@ -35,37 +35,37 @@ Tasks Completed:
 - Data exploration and visualization.
 - Model training using KMeans.
 
-
-🌟💫  3. Sales Prediction Using Python 💫🌟
-
-Objective:- Forecast the sales amount for a product considering various factors.
-
-Description:
-- Built a predictive model to forecast sales based on factors like advertising expenditure, target audience segmentation, and advertising platform selection.
-- Time series analysis and regression techniques were applied.
-
-Tasks Completed:
-- Data collection and preprocessing.
-- Feature engineering and selection.
-- Model training using linear regression and time series models.
-- Evaluation of model performance using RMSE and MAE.
-
-
- 🌟💫 4. Credit Card Fraud Detection 💫🌟
+ 🌟💫 3. Credit Card Fraud Detection 💫🌟
  
 Objective:
 -Identify fraudulent credit card transactions using machine learning.
 
 Description:
 - Developed a classification model to detect fraudulent transactions from genuine ones.
-- Used features such as transaction amount, transaction type, and user history.
+- Used features such as transaction amount, transaction type, etc.
 
 Tasks Completed:
 - Data preprocessing and balancing the dataset.
 - Model training using logistic regression and random forests.
-- Model evaluation using metrics like precision, recall, F1-score, and ROC-AUC.
+- The model achieved high precision, recall & f1-score effectively identifying fraudulent transactions.
 
-- The model achieved a high precision and recall, effectively identifying fraudulent transactions.
+  
+🌟💫  4. Sales Prediction Using Python 💫🌟
+
+Objective:- Forecast the sales amount for a product considering various factors.
+
+Description:
+- Built a predictive model to forecast sales based on factors like advertising expenditure, target audience segmentation, and advertising platform selection.
+- Linear regression techniques were applied.
+
+Tasks Completed:
+- Data collection, preprocessing & visualizing.
+- Feature engineering and selection.
+- Model training using linear regression.
+
+
+
+
 
 
 
