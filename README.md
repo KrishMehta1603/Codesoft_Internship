@@ -1,9 +1,9 @@
-Hello Visiter!👋
+Hello Visitor!👋
 
 # Codesoft Internship - README 🔥
 
 Welcome to the repository for my internship at Codesoft. This document outlines the tasks that were assigned and completed during the internship. 
-Each project was designed to enhance practical skills in data science and machine learning.
+Each project was designed to enhance practical data science and machine learning skills.
 
 ## PROJECTS  🔥 
 🌟💫 1. Titanic Prediction Model 💫🌟
