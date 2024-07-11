@@ -6,7 +6,7 @@ Welcome to the repository for my internship at Codesoft. This document outlines 
 Each project was designed to enhance practical data science and machine learning skills.
 
 ## PROJECTS  🔥 
-🌟💫 1. Titanic Prediction Model 💫🌟
+🌟💫 A. Titanic Prediction Model 💫🌟
 
 Objective:
 -Predict the number of survivors in the Titanic disaster using machine learning.
@@ -22,7 +22,7 @@ Tasks Completed:
 - Evaluation of model performance using accuracy, precision, and recall.
 
 
-🌟💫 2. Iris Flower Classification 💫🌟
+🌟💫 B. Iris Flower Classification 💫🌟
 
 Objective:
 -Classify iris flowers into three species: Setosa, Versicolor, and Virginica.
@@ -35,7 +35,7 @@ Tasks Completed:
 - Data exploration and visualization.
 - Model training using KMeans.
 
- 🌟💫 3. Credit Card Fraud Detection 💫🌟
+ 🌟💫 C. Credit Card Fraud Detection 💫🌟
  
 Objective:
 -Identify fraudulent credit card transactions using machine learning.
@@ -50,7 +50,7 @@ Tasks Completed:
 - The model achieved high precision, recall & f1-score effectively identifying fraudulent transactions.
 
   
-🌟💫  4. Sales Prediction Using Python 💫🌟
+🌟💫  D. Sales Prediction Using Python 💫🌟
 
 Objective:- Forecast the sales amount for a product considering various factors.
 
