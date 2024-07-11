@@ -35,7 +35,22 @@ Tasks Completed:
 - Data exploration and visualization.
 - Model training using KMeans.
 
- 🌟💫 C. Credit Card Fraud Detection 💫🌟
+
+🌟💫  C. Sales Prediction Using Python 💫🌟
+
+Objective:- Forecast the sales amount for a product considering various factors.
+
+Description:
+- Built a predictive model to forecast sales based on factors like advertising expenditure, target audience segmentation, and advertising platform selection.
+- Linear regression techniques were applied.
+
+Tasks Completed:
+- Data collection, preprocessing & visualizing.
+- Feature engineering and selection.
+- Model training using linear regression.
+
+
+ 🌟💫 D. Credit Card Fraud Detection 💫🌟
  
 Objective:
 -Identify fraudulent credit card transactions using machine learning.
@@ -50,18 +65,6 @@ Tasks Completed:
 - The model achieved high precision, recall & f1-score effectively identifying fraudulent transactions.
 
   
-🌟💫  D. Sales Prediction Using Python 💫🌟
-
-Objective:- Forecast the sales amount for a product considering various factors.
-
-Description:
-- Built a predictive model to forecast sales based on factors like advertising expenditure, target audience segmentation, and advertising platform selection.
-- Linear regression techniques were applied.
-
-Tasks Completed:
-- Data collection, preprocessing & visualizing.
-- Feature engineering and selection.
-- Model training using linear regression.
 
 
 
